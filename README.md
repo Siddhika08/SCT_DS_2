@@ -17,8 +17,3 @@ Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset
 2. Females had a much higher survival rate.
 3. 1st class passengers were more likely to survive.
 4. Higher fare passengers had better survival chances.
-
-## Run the Project
-```bash
-pip install pandas numpy seaborn matplotlib
-python titanic_eda.py
